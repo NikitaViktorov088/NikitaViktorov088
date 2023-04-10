@@ -12,4 +12,7 @@
 ## Статистика GitHub
 
 ![Статистика GitHub пользователя](https://github-readme-stats.vercel.app/api?username=NikitaViktorov088&show_icons=true)
-- Email: [электронная почта](mailto:nikita.viktorov088@gmail.com)
+
+
+- Email: [nikita.viktorov088@gmail.com](mailto:nikita.viktorov088@gmail.com)
+- Telegram: [@nikita_viktorov](https://t.me/nikita_viktorov)
